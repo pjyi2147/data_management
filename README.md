@@ -13,6 +13,10 @@ General keywords:
   v: value 
   s: sum of the P(X) in the range given 
   k: 1 - Sum(P(X)) in the given range (it overrides 's' function!)
+  q: it makes the program quit
+  
+  all numbers except for probability are integers and should be seperated by 1 or more spaces.
+  
   
 HOW TO USE binomial.py:
   1. execute binomial.py.
