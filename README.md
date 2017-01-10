@@ -1,5 +1,7 @@
 # data_management
-for easy calculations of binomial and hypergeometry distributions in MDM4UI
+For easy calculations of binomial and hypergeometry distributions in MDM4UI
+
+A BIT OF KNOWLEDGE OF PYTHON NEEDED
 
 /* DISCLAIMER
 I DO NOT TAKE ANY RESPONSIBLITITY OF GETTING LOW SCORES OR FORGETTING FORMULAS
