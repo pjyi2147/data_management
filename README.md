@@ -45,4 +45,4 @@ HOW TO USE hypergeometry.py:
   4. for command 'k', it is same as 'sum' above, but just it subtracts the sum from 1.
 
 
-I wish this program would help many people who is having a hard time solving distribution problems.
+I wish this program would help many students who is having a hard time solving distribution problems.
