@@ -20,7 +20,7 @@ HOW TO USE binomial.py:
   
      (x = # of sucesses you want, n = # of samples, p = probability)
      
-     (WARNING: probability does not support fractions !!!) 
+     (WARNING: probability does not support fractions !!! USE decimals)  
   3. for sum, type in "s end n p start" 
      
      (the range is inclusive, so it calculates sum of P(X=x) which is start =< x <= end)   
