@@ -35,6 +35,15 @@ def main():
             else:
                 print(value_hyper(order[0], order[1], order[2], order[3]))
 
+        elif order[0] is 'k':
+            order = list(map(int, order[1:]))
+            if len(order) is 5:
+                print(1 - sum_hyper(order[0], order[1], order[2], order[3], order[4]))
+            elif len(order) < 4:
+                print("not enough conditions!")
+            else:
+                print(1 - sum_hyper(order[0], order[1], order[2], order[3]))
+                
         order = input().split()
 
 main()
