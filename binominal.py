@@ -30,7 +30,7 @@ def main():
 
         elif order[0] is 's':
             order = order[1:]
-            if len(order) == 4:v 
+            if len(order) == 4: 
                 x, n, p, start = int(order[0]), int(order[1]), float(order[2]), int(order[3])
                 print(culm(x,n,p,start))
             elif len(order) == 3:
